@@ -9,7 +9,7 @@ app=Flask(__name__,template_folder='./client')
 
 @app.route('/')
 def admin():
-    return "Hi this app is build with ML algorithms \n The app is made by **Ashutosh Tyagi**"
+    return "This is a Flask based app  for Content Based Recommendation System"
 
 @app.route('/recommend_movie',methods=['GET','POST'])
 def recommend():
