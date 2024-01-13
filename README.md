@@ -1,8 +1,8 @@
 # This repo contains - 
-## Content Filtering Recommendation-System built on top of Flask Web Framework  
-## Collaborative Filtering
-## SVD & ALS algorithms for Matrix Factorization 
-## Neural Collaborative Filtering for Hybrid Approach
+## Content Filtering Recommendation-System built on top of Flask Web Framework  --Use VSCode
+## Collaborative Filtering -- Use VSCode
+## SVD & ALS algorithms for Matrix Factorization  -- Use Colab
+## Neural Collaborative Filtering for Hybrid Approach -- Use Colab
 
 ## Step 1 :
 
