@@ -1,4 +1,9 @@
-# This is a Content-based Recommendation-System built on top of Flask Web Framework  
+# This repo contains - 
+## Content Filtering Recommendation-System built on top of Flask Web Framework  
+## Collaborative Filtering
+## SVD & ALS algorithms for Matrix Factorization 
+## Neural Collaborative Filtering for Hybrid Approach
+
 ## Step 1 :
 
 Create a directory on your local machine and  download the below 2 files from the google drive link below - 
